@@ -1,3 +1,4 @@
 # vgu-demo
-this is my first reprository
-author-Prince
+This is my first reprository.
+<br>
+Author-Prince
